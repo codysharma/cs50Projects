@@ -1,0 +1,1 @@
+Both programs take a string of any length as input and output the reading level according to the Coleman-Liau index. One program is in python, the other C.
