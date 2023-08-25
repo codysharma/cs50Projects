@@ -1,3 +1,5 @@
+//Takes string as input and outputs the corresponding score the word would recieve in Scrabble, without any placement bonuses
+
 #include <ctype.h>
 #include <cs50.h>
 #include <stdio.h>
