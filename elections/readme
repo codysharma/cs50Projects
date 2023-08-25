@@ -1,1 +1,3 @@
+Plurality is a program which takes the number of voters as an input, then asks for each vote. The function then returns the candidate with the plurality - but not necessarily majority - of votes.
 
+Runoff asks for possible candidates as arguments, then the number of voters as an input, then has each voter list the candidates in rank choice voting style. The program then returns the overall winner using rank choice voting run off counting.
